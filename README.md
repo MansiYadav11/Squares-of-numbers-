@@ -1,1 +1,1 @@
-# Squares-of-numbers-
+# Squares-of-given numbers-
